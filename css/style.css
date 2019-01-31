@@ -1,5 +1,7 @@
 h1 {
     text-align: center;
+    color:orange;
+    
 }
 
 #cart {
@@ -12,20 +14,6 @@ h1 {
 .column {
     width: 18%;
     padding: 25px 0px;
-}
-
-#images img {
-    display: block;
-    height: 100px;
-    width: auto;
-    margin: 20px;
-}
-
-#songs p {
-    font-size: 18px;
-    height: 100px;
-    font-weight: bold;
-    margin: 20px;
 }
 
 #artists p {
@@ -55,6 +43,13 @@ h1 {
     font-size: 18px;
 }
 
+#container text-center {
+    font-size: 18px;
+    height: 100px;
+    font-weight: bold;
+    margin: 20px;
+}
+
 input {
     padding: 5px 10px;
     font-size: 14px;
@@ -63,4 +58,38 @@ input {
 button {
     font-size: 14px;
     padding: 5px 10px;
+}
+
+.Joji{
+    height:150px;
+    width: 200px;
+}
+
+.joji1{
+    margin-left: 220px;
+    font-size: 20px;
+    margin-bottom: -490px;
+    margin-top: -100px;
+    color:black;
+}
+
+.joji2{
+    margin-top: -70px;
+    font-size: 20px;
+    margin-left: 560px;
+    color: black;
+}
+
+.rising{
+    height: 190px;
+    margin-top:100px;
+    width:280px;
+}
+
+.rising1{
+    font-size: 20px;
+    margin-bottom: -490px;
+    margin-top: -120px;
+    margin-left: 300px;
+    color:black;
 }
