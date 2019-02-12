@@ -1,7 +1,7 @@
 h1 {
     text-align: center;
-    color:orange;
-    
+    color: orange;
+
 }
 
 #cart {
@@ -56,68 +56,68 @@ button {
     padding: 5px 10px;
 }
 
-.Joji{
-    height:150px;
+.Joji {
+    height: 150px;
     width: 200px;
 }
 
-.joji1{
+.joji1 {
     margin-left: 220px;
     font-size: 20px;
     margin-bottom: -490px;
     margin-top: -100px;
-    color:black;
+    color: black;
 }
 
-.joji2{
+.joji2 {
     margin-top: -500px;
     font-size: 20px;
     margin-left: 560px;
     color: black;
 }
 
-.rising{
+.rising {
     height: 190px;
-    margin-top:100px;
-    width:280px;
+    margin-top: 100px;
+    width: 280px;
 }
 
-.rising1{
+.rising1 {
     font-size: 20px;
     margin-bottom: -490px;
     margin-top: -120px;
     margin-left: 300px;
-    color:black;
+    color: black;
 }
 
-.rising2{
-    color:black;
+.rising2 {
+    color: black;
     margin-right: 100px;
     font-size: 20px;
     margin-left: 560px;
     margin-top: 140px;
 }
 
-.peep{
-    height:200px;
+.peep {
+    height: 200px;
     margin-top: 600px;
 }
 
-.peep1{
-    color:black;
+.peep1 {
+    color: black;
     font-size: 20px;
     margin-left: 300px;
     margin-top: -100px;
 }
 
-.peep2{
+.peep2 {
     font-size: 20px;
-    color:black;
+    color: black;
     margin-top: 200px;
     margin-left: 520px;
 }
 
-.first{
-    font-size:20px;
+.first {
+    font-size: 20px;
     margin-left: 900px;
 }

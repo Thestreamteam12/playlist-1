@@ -7,12 +7,12 @@ var songs = [];
 
 
 
-function displaySongInfo(){
+function displaySongInfo() {
     // BELOW Use forEach Loop to display the data from each of your arrays in the correct div
 
 }
 
-function emptySongInfo(){
+function emptySongInfo() {
     $("#songs").empty();
     // Use jQuery to empty all of the remaining divs
 
@@ -20,7 +20,7 @@ function emptySongInfo(){
 }
 
 
-function addSongInfo(){
+function addSongInfo() {
     // BELOW write the code to add new items to each of the arrays.
 
 
